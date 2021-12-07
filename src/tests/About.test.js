@@ -22,7 +22,7 @@ describe('Testa se a página About contém as informações sobre a Pokédex.', 
   });
   test('Testa se a página contém a seguinte imagem: https://cdn2.bulbagarden.net/upload/thumb/8/86/Gen_I_Pok%C3%A9dex.png/800px-Gen_I_Pok%C3%A9dex.png', () => {
     const url = 'https://cdn2.bulbagarden.net/upload/thumb/8/86/Gen_I_Pok%C3%A9dex.png/800px-Gen_I_Pok%C3%A9dex.png';
-    const img = screen.getByRole('img', { src: url });
+    const img = screen.getByRole('img', { name: 'Pokédex' });
     const src = img.getAttribute('src');
     expect(img).toBeInTheDocument();
     expect(src).toEqual(url);
