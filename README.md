@@ -4,7 +4,7 @@ Este é mais um projeto entregue como forma de avaliação do curso livre de Des
 
 ## Desenvolvimento
 
-Este projeto contém uma aplicação React criada e configurada pela escola trybe. Ela contém uma implementação completa de funcionalidades de busca e seleção de uma Pokédex. Utilizando o Jest e a biblioteca React Testing Library (também já instaladas e configuradas pela escola) me coube escrever os testes para cada funcionalidade da aplicação, para garantir seu correto funcionamento, tomando o cuidado com os falsos positivos que um teste pode apresentar.
+Este projeto contém uma aplicação React criada e configurada pela escola Trybe. Ela contém uma implementação completa de funcionalidades de busca e seleção de uma Pokédex. Utilizando o Jest e a biblioteca React Testing Library (também já instaladas e configuradas pela escola) me coube escrever os testes para cada funcionalidade da aplicação, para garantir seu correto funcionamento, tomando o cuidado com os falsos positivos que um teste pode apresentar.
 
 ## Habilidades desenvolvidas
 
