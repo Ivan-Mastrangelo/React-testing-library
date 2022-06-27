@@ -24,11 +24,11 @@ Este projeto contém uma aplicação React criada e configurada pela escola Tryb
 
 Basta clonar o projeto:
 ```
-git@github.com:Ivan-Mastrangelo/Project-Tryunfo--React.git
+git@github.com:Ivan-Mastrangelo/React-testing-library.git
 ```
 Entrar no diretório criado:
 ```
-  cd Project-Tryunfo--React
+  cd React-testing-library
   ```
 Instalar as dependências do projeto:
 ```
